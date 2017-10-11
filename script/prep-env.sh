@@ -1,0 +1,8 @@
+#! /bin/bash
+
+MYENV=friend1ws2
+AWS_ACCOUNTID=220286576909
+AWS_REGION=ap-northeast-1
+SUBNET1=subnet-86b919de
+SUBNET2=subnet-f3ea7285
+SECURITYGROUPID=sg-57467631
